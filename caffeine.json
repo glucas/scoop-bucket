@@ -2,5 +2,6 @@
     "homepage": "http://www.zhornsoftware.co.uk/caffeine/index.html",
     "version": "1.64",
     "url": "http://www.zhornsoftware.co.uk/caffeine/caffeine.zip",
-    "bin": "caffeine.exe"
+    "bin": "caffeine.exe",
+    "hash": "5cbaaefaf4c24d3af73b856c98b079ff4bcdf01ca104b179733fca0616a05d8d"
 }
