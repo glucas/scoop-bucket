@@ -1,8 +1,9 @@
 {
-    "version": "0.2016.03.31",
+    "version": "6.0.4",
     "homepage": "https://github.com/PowerShell/PowerShell",
     "description": "Powershell Core",
     "url": "https://github.com/PowerShell/PowerShell/releases/download/v6.0.4/PowerShell-6.0.4-win-x64.zip",
+    "hash": "0b04b63d2b63d4631cf5bd6e531f26b60f3cc1b1db41c8b5360f14776e66f797",
     "bin": [
         "pwsh.exe"
     ],
