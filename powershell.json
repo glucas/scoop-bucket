@@ -1,0 +1,15 @@
+{
+    "version": "0.2016.03.31",
+    "homepage": "https://github.com/PowerShell/PowerShell",
+    "description": "Powershell Core",
+    "url": "https://github.com/PowerShell/PowerShell/releases/download/v6.0.4/PowerShell-6.0.4-win-x64.zip",
+    "bin": [
+        "pwsh.exe"
+    ],
+    "checkver": {
+        "github": "https://github.com/PowerShell/PowerShell/"
+    },
+    "autoupdate": {
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/$version/PowerShell-$version-win-x64.zip"
+    }
+}
