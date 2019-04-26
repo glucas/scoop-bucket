@@ -1,0 +1,29 @@
+{
+    "homepage": "https://github.com/sonatard/ghs",
+    "version": "0.0.10",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sonatard/ghs/releases/download/v0.0.10/ghs_windows_amd64.zip",
+            "hash": "sha1:181d62a33acd5bdd132a96f6dae6831cdf977320"
+        },
+        "32bit": {
+            "url": "https://github.com/sonatard/ghs/releases/download/v0.0.10/ghs_windows_386.zip",
+            "hash": "sha1:a611c0da3629936904bb05fcab33935cf0fb17a7"
+        }
+    },
+    "bin": "ghs.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/sonatard/ghs/releases/download/v$version/ghs_windows_amd64.zip"
+            },
+            "32bit": {
+                "url": "https://github.com/sonatard/ghs/releases/download/v$version/ghs_windows_386.zip"
+            }
+        },
+        "hash": {
+            "url": "https://github.com/sonatard/ghs/releases/download/v$version/SHASUMS"
+        }
+    }
+}
