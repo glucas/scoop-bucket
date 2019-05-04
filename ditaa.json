@@ -1,0 +1,13 @@
+{
+    "version": "0.9",
+    "homepage": "http://ditaa.sourceforge.net",
+    "url": "https://sourceforge.net/projects/ditaa/files/ditaa/0.9/ditaa0_9.zip",
+    "hash": "d689e933b80b065cd7c349e489cfb8feea69dd3e91ca78931edc6fa6e098e689",
+    "bin": [ [ "ditaa0_9.jar", "ditaa" ] ],
+    "suggest": {
+        "JDK": [
+            "java/oraclejdk",
+            "java/openjdk"
+        ]
+    },
+}
