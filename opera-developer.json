@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://get.geo.opera.com/pub/opera/desktop/64.0.3417.73/win/Opera_58.0.3135.65_Setup_x64.exe"
+            "url": "https://get.geo.opera.com/pub/opera/desktop/64.0.3417.73/win/Opera_64.0.3417.73_Setup_x64.exe"
         }
     },
     "installer": {
