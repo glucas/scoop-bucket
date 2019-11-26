@@ -1,10 +1,10 @@
 {
     "homepage": "https://www.gnu.org/software/emacs/",
     "license": "GPL-3.0-only",
-    "version": "27.0.20190918",
+    "version": "27.0.20191111",
     "architecture": {
         "64bit": {
-            "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-27/emacs-27.0.50-snapshot-2019-09-18-x86_64.zip"
+            "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-27/emacs-27.0.50-snapshot-2019-11-11-x86_64.zip"
         }
     },
     "extract_dir": ".",
